@@ -1,0 +1,16 @@
+.header {
+  padding-top: 24px;
+  padding-bottom: 24px;
+
+  nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 30px;
+  }
+  nav a {
+    font-size: 20px;
+    color: #000;
+    text-decoration: none;
+  }
+}
